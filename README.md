@@ -61,7 +61,7 @@ Install postgresql
 
 Clone this repository to your desired folder:
 
-  git clone git@https://github.com/newtonah0/Vet-clinic-database.git
+  git clone githttps://github.com/newtonah0/Database-Schema-Diagram.git
 
 <!-- AUTHORS -->
 
@@ -92,7 +92,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/newtonah0/Vet-clinic-database/issues).
+Feel free to check the [issues page](https://github.com/newtonah0/Database-Schema-Diagram/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
