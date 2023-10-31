@@ -20,9 +20,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet Clinic Database] <a name="about-project"></a>
+# 📖 [Database Schema-Diagram] <a name="about-project"></a>
 
-**[Vet Clinic Database]** is a project uses a relational database to manage the data and records of a veterinary clinic. The postgreSQL is a database management system used for this project to create and query tables.
+**[Database Schema-Diagram]** is a project uses a relational database to manage the data and records of a veterinary clinic. The postgreSQL is a database management system used for this project to create and query tables with diagram.
 
 ## 🛠 Built With <a name="built-with"></a>
 
